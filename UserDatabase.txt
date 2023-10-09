@@ -1,0 +1,12 @@
+0 100 Mario Juarez mario Hola1234
+1 101 Cristina Sanchez cris 1234
+1 102 John Doe john 1234
+2 103 Maria Perez maria 1234
+0 104 Pablo Lopez pablo 1234
+2 105 Pedro Gomez pedro 1234
+2 106 Susana Garcia susana 1234
+3 501 Marco Gomez marco 1234 Computer_Science
+4 502 Saul Vazquez saul 1234 Physics 105 Thesis_Name
+3 503 Alex Gonzalez alex 1234 Computer_Science
+3 504 Alicia Martinez alicia 1234 Computer_Science
+3 505 Karla Mendez karla 1234 Computer_Science
